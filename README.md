@@ -1,4 +1,4 @@
 # zopoxo
 incentive calculator
 <br>
-Author - Angad Singh
+Author - Angad Singh(India)
